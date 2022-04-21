@@ -6,7 +6,7 @@ pipeline {
              sh 'pwd'
              sh 'whoami'
              sh 'ls'
-             sh 'echo "Jenkins"'
+             sh 'echo "Edited Jenkins"'
       }
     }
   }
